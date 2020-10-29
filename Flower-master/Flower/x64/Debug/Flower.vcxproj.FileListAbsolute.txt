@@ -1,0 +1,3 @@
+C:\Users\Dmitry\Desktop\Flower-master\Flower\x64\Debug\Flower.vcxprojAssemblyReference.cache
+C:\Users\Dmitry\Desktop\Flower-master\Flower\x64\Debug\Flower.MyForm.resources
+C:\Users\Dmitry\Desktop\Flower-master\Flower\x64\Debug\Flower.vcxproj.GenerateResource.cache
