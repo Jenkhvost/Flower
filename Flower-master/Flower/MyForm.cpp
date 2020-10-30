@@ -192,9 +192,9 @@ void Flower::MyForm::switchImageSunflower()
 System::Void Flower::MyForm::MyForm_Load(System::Object^ sender, System::EventArgs^ e)
 {
 	pinkFlowerEnvironment = gcnew FlowerEnvironment(
-		(Temperatures)pinkFlowerEnvironment->Temperature,
-		(Seasons)pinkFlowerEnvironment->Season,
-		(TimesOfDay)pinkFlowerEnvironment->DayTime
+		(Temperatures)FINE,
+		(Seasons)SPRING,
+		(TimesOfDay)DAY
 	);
 	sunFlowerEnvironment = gcnew FlowerEnvironment(
 		(Temperatures)temperatureBarSunflower->Value,

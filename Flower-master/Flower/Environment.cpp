@@ -36,4 +36,4 @@ void FlowerEnvironment::timerTick(System::Object^ sender, System::EventArgs^ e)
         }
         if (soilMoisture == 0) DeadlyEvent(WITHERED);
     }
-}
+    }
